@@ -1,1 +1,1 @@
-# SortingMonster
+# SortingMonster прога сортирует числа, жесть конечно.
